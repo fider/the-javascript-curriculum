@@ -12,8 +12,8 @@ This curriculum heavily realies on [NodeSchool.io](http://nodeschool.io) for the
 It is *highly recommended* that your `fork` this repository, keep track of your learning progress by adding `x`es inside the `[ ]` checkboxes and committing them to your own repository. 
 
 ### New to Collaborative & Open Source Programming?
-- [ ] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
-- [ ] Install a Git client,
+- [x] To collaborate with others and track your own progress, you'll need to create a GitHub account. [Create an account](https://github.com/)
+- [x] Install a Git client,
   - Simple:
     - [GitHub for Windows](https://windows.github.com/) 
     - [GitHub for Mac](https://mac.github.com/) 
@@ -21,13 +21,13 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
     - [GitExtensions (Windows)](http://sourceforge.net/projects/gitextensions/)
     - [Tower (Mac)](http://www.git-tower.com/)
     - [Github Desktop (Mac/Windows)](https://desktop.github.com/) *In pre-release*
-- [ ] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
+- [x] Now you can `fork` this repo, by using the `fork` button on the top right hand of the GitHub page and start tracking your progress.
 
 ### Pre-Requisites
-- [ ] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
+- [x] Install Node.js, so you can run the self-learning tools: [https://nodejs.org/](https://nodejs.org/)
   - If you're running on Windows, check out these [tips](https://johnpapa.net/tips-for-running-node-and-npm-on-windows/).
-- [ ] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
-- [ ] Get a good text editor/IDE.
+- [x] Visit and familiarize yourself with [npm](https://www.npmjs.com/)
+- [x] Get a good text editor/IDE.
   - Text Editor
     - [Atom](http://www.atom.io/)
     - [Sublime Text](http://www.sublimetext.com/3)
@@ -36,6 +36,8 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
   - IDE (Integrated Development Environment)
     - [Visual Studio Code (Mac/Windows)](https://code.visualstudio.com/)
     - [WebStorm (Mac/Windows)](https://www.jetbrains.com/webstorm/)
+    
+  - [ ] Setup/enable addons for VS Code
 
 ### How to Ask for Help
 The Internet is a vast cache of information and if you know how to navigatge it well, you can become a very effective learner.
