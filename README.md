@@ -37,7 +37,7 @@ It is *highly recommended* that your `fork` this repository, keep track of your 
     - [Visual Studio Code (Mac/Windows)](https://code.visualstudio.com/)
     - [WebStorm (Mac/Windows)](https://www.jetbrains.com/webstorm/)
     
-  - [ ] Setup/enable addons for VS Code
+  - [x] Setup/enable addons for VS Code
 
 ### How to Ask for Help
 The Internet is a vast cache of information and if you know how to navigatge it well, you can become a very effective learner.
@@ -50,14 +50,14 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 
 ### Absolute Beginners
 - [x] Don't how to work the console, command line, CLI or bash? Start with the basics [here](https://swcarpentry.github.io/shell-novice/01-intro/)
-- [ ] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
-- [ ] Type in `npm`, do you see `Usage: npm <command>`?
+- [x] Open up command line/console. Type in `node`, do you see `> `? If yes *great*, hit `Ctrl+C` to terminate the currently running `node` process. If no, then see `How to ask for help`.
+- [x] Type in `npm`, do you see `Usage: npm <command>`?
 - You're ready to start learning, using the self guided workshoppers. Good luck! 
-- [ ] Learn how to use Git and GitHub basics.
+- [x] Learn how to use Git and GitHub basics.
   - Run `npm install -g git-it`
   - Then `git-it`
   - Additional help http://jlord.us/git-it/
-- [ ] Learn JavaScript basics. No previous coding experience required.
+- [x] Learn JavaScript basics. No previous coding experience required.
   - Run `npm install -g javascripting`
   - Then `javascripting`
   - Additional info https://github.com/sethvincent/javascripting
