@@ -63,11 +63,11 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   - Additional info https://github.com/sethvincent/javascripting
   
 ### A Re-Introduction to JavaScript
- - [ ] Introduction to modern JavaScript by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+ - [x] Introduction to modern JavaScript by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ### Become a Better JavaScript Developer
 - [ ] Practice Best Practices -- see section below
-- [ ] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
+- [x] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
   - Run `npm install -g scope-chains-closures`
 - [ ] Learn fundamental functional programming features of JavaScript in vanilla ES5.
   - `npm install -g functional-javascript-workshop` 
