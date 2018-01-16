@@ -69,28 +69,28 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 - [ ] Practice Best Practices -- see section below
 - [x] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
   - Run `npm install -g scope-chains-closures`
-- [ ] Learn fundamental functional programming features of JavaScript in vanilla ES5.
+- [x] Learn fundamental functional programming features of JavaScript in vanilla ES5.
   - `npm install -g functional-javascript-workshop` 
-- [ ] Learn to use promises in JavaScript to handle async operations.
+- [x] Learn to use promises in JavaScript to handle async operations.
   - `npm install -g promise-it-wont-hurt` 
   - Additional information: [Q.js](http://documentup.com/kriskowal/q/)
-- [ ] Learn Lo-Dash (fork of underscore) to handle your arrays and objects simple!
+- [x] Learn Lo-Dash (fork of underscore) to handle your arrays and objects simple!
   - `npm install -g lololodash`
   - Additional information: [Underscore.js](http://underscorejs.org/) has great documentation. Also check out [lodash](https://lodash.com/).
-- [ ] Learn to test your code
+- [x] Learn to test your code
   - `npm install -g test-anything`
 
 ### Get Started with Node.JS
- - [ ] Learn the basics of node: asynchronous i/o, http.
+ - [x] Learn the basics of node: asynchronous i/o, http.
   - `npm install -g learnyounode`
  - [ ] Advanced Node Setup
   - For Windows: https://blog.risingstack.com/node-js-windows-10-tutorial
   - For Mac/Linux: 
     - Manage multiple Node versions with n `npm install -g n`
     - http://docs.python-guide.org/en/latest/starting/install/osx/
- - [ ] Learn a web framework
+ - [x] Learn a web framework
   - [ ] Hapi.JS `npm install -g makemehapi` http://hapijs.com/
-  - [ ] Express `npm install -g expressworks` http://expressjs.com/
+  - [x] Express `npm install -g expressworks` http://expressjs.com/
   
 ### Practice Best Practices
  - [ ] Learn the best practices of writing clean JavaScript code.
