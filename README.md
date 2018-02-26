@@ -66,7 +66,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
  - [x] Introduction to modern JavaScript by [Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 ### Become a Better JavaScript Developer
-- [ ] Practice Best Practices -- see section below
+- [x] Practice Best Practices -- see section below
 - [x] Learn the details of Scope, Scope Chains, Closures, and Garbage Collection.
   - Run `npm install -g scope-chains-closures`
 - [x] Learn fundamental functional programming features of JavaScript in vanilla ES5.
@@ -95,15 +95,16 @@ The Internet is a vast cache of information and if you know how to navigatge it 
 ### Practice Best Practices
  - [ ] Learn the best practices of writing clean JavaScript code.
   - Run `npm install -g js-best-practices`
- - [ ] Learn a unit testing framework
-  - [ ] Jasmine
+ - [x] Learn a unit testing framework
+  - [x] Jasmine
     - Working Example: https://github.com/duluca/minimal-node-web-server/​
       - Run `npm test`
       - See `specs` folder for implementation
     - Helpful Resources
       - [Spy Cheatsheet](http://tobyho.com/2011/12/15/jasmine-spy-cheatsheet/)
       - [How to Spy on JavaScript Methods](http://www.htmlgoodies.com/html5/javascript/spy-on-javascript-methods-using-the-jasmine-testing-framework.html)
-
+###
+ - [x] TypeScript
 ### Web
  - [ ] HTML 5
   - http://www.w3schools.com/html/html5_intro.asp
@@ -115,7 +116,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   
 ### Learn Single Page Applications (SPAs)
  - [ ] Legacy Angular.js https://angularjs.org/
- - [ ] Angular 4 https://angular.io/
+ - [ ] Angular 5 https://angular.io/
  - *Building Scalable and Beautiful AngularJS Apps Series*: Learn how to properly architect front-end applications
   - [ ] [Leveraging Existing Skills and Pushing the Envelope](https://www.excella.com/insights/building-scalable-and-beautiful-angular-apps-part-one)
   - [ ] [Web App Packaging and Publishing Best Practices](https://www.excella.com/insights/building-scalable-and-beautiful-angular-apps-part-two)
