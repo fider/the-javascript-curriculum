@@ -116,6 +116,7 @@ The Internet is a vast cache of information and if you know how to navigatge it 
   
 ### Learn Single Page Applications (SPAs)
  - [ ] Legacy Angular.js https://angularjs.org/
+ - [ ] Angular 5 (briefly)  https://codecraft.tv/courses/angular
  - [ ] Angular 5 https://angular.io/
  - *Building Scalable and Beautiful AngularJS Apps Series*: Learn how to properly architect front-end applications
   - [ ] [Leveraging Existing Skills and Pushing the Envelope](https://www.excella.com/insights/building-scalable-and-beautiful-angular-apps-part-one)
