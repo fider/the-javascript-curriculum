@@ -103,8 +103,9 @@ The Internet is a vast cache of information and if you know how to navigatge it 
     - Helpful Resources
       - [Spy Cheatsheet](http://tobyho.com/2011/12/15/jasmine-spy-cheatsheet/)
       - [How to Spy on JavaScript Methods](http://www.htmlgoodies.com/html5/javascript/spy-on-javascript-methods-using-the-jasmine-testing-framework.html)
-###
+### Additional
  - [x] TypeScript
+ - [x] Setup Travis for current git projects
 ### Web
  - [ ] HTML 5
   - http://www.w3schools.com/html/html5_intro.asp
